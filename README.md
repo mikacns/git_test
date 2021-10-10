@@ -1,0 +1,1 @@
+This is Miroslav's first Git project. 
